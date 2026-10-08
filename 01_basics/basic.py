@@ -1,0 +1,7 @@
+print("krish")
+print(12**5)
+print(12/12)
+print(19/12)
+print("i and a good boy \nand u also ")
+print("hey",4,5,9 ,sep="*",)
+print("krish ")
